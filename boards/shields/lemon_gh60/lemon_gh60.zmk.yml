@@ -1,0 +1,9 @@
+file_format: "1"
+id: lemon_gh60
+name: lemon_gh60
+type: shield
+url: 
+requires: [e73_module]
+features:
+  - keys
+  - studio
