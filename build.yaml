@@ -22,6 +22,6 @@ include:
 - board: nrfmicro_13
   shield: lemon_gh60
   snippet: studio-rpc-usb-uart
-  snippet: nrf52840-nosd
+#  snippet: nrf52840-nosd
 - board: nrfmicro_13
   shield: settings_reset
